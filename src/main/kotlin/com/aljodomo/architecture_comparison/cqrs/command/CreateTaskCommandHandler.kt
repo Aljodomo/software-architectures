@@ -1,0 +1,18 @@
+package com.aljodomo.architecture_comparison.cqrs.command
+
+import com.aljodomo.architecture_comparison.cqrs.infrastructure.TaskEntity
+import com.aljodomo.architecture_comparison.cqrs.infrastructure.TaskJpaRepository
+import org.springframework.stereotype.Service
+import java.util.UUID
+
+@Service
+class CreateTaskCommandHandler(
+    private val taskJpaRepository: TaskJpaRepository
+) {
+
+    fun handle(command: CreateTaskCommand): UUID {
+        val id = UUID.randomUUID()
+        taskJpaRepository.save(TaskEntity(id, command.title, command.description))
+        return id
+    }
+}
