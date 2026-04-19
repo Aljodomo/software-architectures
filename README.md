@@ -1,4 +1,4 @@
-# Architecture Comparison
+# Software Architectures - Comparison
 
 A Spring Boot + Kotlin project implementing the same task management API across 7 different architectural styles.
 

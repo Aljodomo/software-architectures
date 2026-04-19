@@ -1,6 +1,6 @@
 spring:
   application:
-    name: architecture-comparison
+    name: software-architectures
   datasource:
     url: jdbc:postgresql://localhost:5432/architecture_comparison
     username: postgres

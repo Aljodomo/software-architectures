@@ -8,7 +8,7 @@ plugins {
 
 group = "com.aljodomo"
 version = "0.0.1-SNAPSHOT"
-description = "architecture-comparison"
+description = "software-architectures"
 
 java {
     toolchain {

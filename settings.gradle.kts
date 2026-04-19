@@ -1,1 +1,1 @@
-rootProject.name = "architecture-comparison"
+rootProject.name = "software-architectures"
