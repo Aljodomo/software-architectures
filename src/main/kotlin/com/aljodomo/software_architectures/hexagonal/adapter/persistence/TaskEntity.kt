@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.hexagonal.adapter.persistence
+package com.aljodomo.software_architectures.hexagonal.adapter.persistence
 
 import jakarta.persistence.Entity
 import jakarta.persistence.Id

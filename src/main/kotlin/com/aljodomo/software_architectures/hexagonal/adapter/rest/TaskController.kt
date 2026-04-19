@@ -1,6 +1,6 @@
-package com.aljodomo.architecture_comparison.hexagonal.adapter.rest
+package com.aljodomo.software_architectures.hexagonal.adapter.rest
 
-import com.aljodomo.architecture_comparison.hexagonal.core.TaskPort
+import com.aljodomo.software_architectures.hexagonal.core.TaskPort
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PostMapping

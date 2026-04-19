@@ -1,8 +1,8 @@
-package com.aljodomo.architecture_comparison.layered.presentation
+package com.aljodomo.software_architectures.layered.presentation
 
-import com.aljodomo.architecture_comparison.layered.application.TaskService
-import com.aljodomo.architecture_comparison.layered.presentation.dto.TaskCreateDto
-import com.aljodomo.architecture_comparison.layered.presentation.dto.TaskDto
+import com.aljodomo.software_architectures.layered.application.TaskService
+import com.aljodomo.software_architectures.layered.presentation.dto.TaskCreateDto
+import com.aljodomo.software_architectures.layered.presentation.dto.TaskDto
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PostMapping

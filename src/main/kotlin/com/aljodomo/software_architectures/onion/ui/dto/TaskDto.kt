@@ -1,6 +1,6 @@
-package com.aljodomo.architecture_comparison.onion.ui.dto
+package com.aljodomo.software_architectures.onion.ui.dto
 
-import com.aljodomo.architecture_comparison.onion.domain.Task
+import com.aljodomo.software_architectures.onion.domain.Task
 import java.util.UUID
 
 data class TaskDto(

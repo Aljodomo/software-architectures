@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.clean.framework.persistence
+package com.aljodomo.software_architectures.clean.framework.persistence
 
 import jakarta.persistence.Entity
 import jakarta.persistence.Id

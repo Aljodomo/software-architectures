@@ -1,8 +1,8 @@
-package com.aljodomo.architecture_comparison.clean.adapter.controller
+package com.aljodomo.software_architectures.clean.adapter.controller
 
-import com.aljodomo.architecture_comparison.clean.adapter.controller.dto.TaskCreateDto
-import com.aljodomo.architecture_comparison.clean.adapter.controller.dto.TaskDto
-import com.aljodomo.architecture_comparison.clean.usecase.boundary.`in`.TaskInputBoundary
+import com.aljodomo.software_architectures.clean.adapter.controller.dto.TaskCreateDto
+import com.aljodomo.software_architectures.clean.adapter.controller.dto.TaskDto
+import com.aljodomo.software_architectures.clean.usecase.boundary.`in`.TaskInputBoundary
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PostMapping

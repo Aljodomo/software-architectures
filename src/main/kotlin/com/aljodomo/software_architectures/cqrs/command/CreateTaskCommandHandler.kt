@@ -1,7 +1,7 @@
-package com.aljodomo.architecture_comparison.cqrs.command
+package com.aljodomo.software_architectures.cqrs.command
 
-import com.aljodomo.architecture_comparison.cqrs.infrastructure.TaskEntity
-import com.aljodomo.architecture_comparison.cqrs.infrastructure.TaskJpaRepository
+import com.aljodomo.software_architectures.cqrs.infrastructure.TaskEntity
+import com.aljodomo.software_architectures.cqrs.infrastructure.TaskJpaRepository
 import org.springframework.stereotype.Service
 import java.util.UUID
 

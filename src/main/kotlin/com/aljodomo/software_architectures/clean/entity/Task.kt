@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.clean.entity
+package com.aljodomo.software_architectures.clean.entity
 
 import java.util.UUID
 

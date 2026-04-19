@@ -1,8 +1,8 @@
-package com.aljodomo.architecture_comparison.clean.usecase.interactor
+package com.aljodomo.software_architectures.clean.usecase.interactor
 
-import com.aljodomo.architecture_comparison.clean.entity.Task
-import com.aljodomo.architecture_comparison.clean.usecase.boundary.`in`.TaskInputBoundary
-import com.aljodomo.architecture_comparison.clean.usecase.boundary.out.TaskGateway
+import com.aljodomo.software_architectures.clean.entity.Task
+import com.aljodomo.software_architectures.clean.usecase.boundary.`in`.TaskInputBoundary
+import com.aljodomo.software_architectures.clean.usecase.boundary.out.TaskGateway
 import org.springframework.stereotype.Service
 import java.util.UUID
 

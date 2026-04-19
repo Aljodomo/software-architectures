@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.clean.framework.persistence
+package com.aljodomo.software_architectures.clean.framework.persistence
 
 import org.springframework.data.jpa.repository.JpaRepository
 import java.util.UUID

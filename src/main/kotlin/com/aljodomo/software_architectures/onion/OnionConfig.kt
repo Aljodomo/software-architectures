@@ -1,6 +1,6 @@
-package com.aljodomo.architecture_comparison.onion
+package com.aljodomo.software_architectures.onion
 
-import com.aljodomo.architecture_comparison.onion.domain.TaskDomainService
+import com.aljodomo.software_architectures.onion.domain.TaskDomainService
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 

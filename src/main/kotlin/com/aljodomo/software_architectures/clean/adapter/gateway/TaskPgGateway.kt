@@ -1,9 +1,9 @@
-package com.aljodomo.architecture_comparison.clean.adapter.gateway
+package com.aljodomo.software_architectures.clean.adapter.gateway
 
-import com.aljodomo.architecture_comparison.clean.entity.Task
-import com.aljodomo.architecture_comparison.clean.framework.persistence.TaskEntity
-import com.aljodomo.architecture_comparison.clean.framework.persistence.TaskJpaRepository
-import com.aljodomo.architecture_comparison.clean.usecase.boundary.out.TaskGateway
+import com.aljodomo.software_architectures.clean.entity.Task
+import com.aljodomo.software_architectures.clean.framework.persistence.TaskEntity
+import com.aljodomo.software_architectures.clean.framework.persistence.TaskJpaRepository
+import com.aljodomo.software_architectures.clean.usecase.boundary.out.TaskGateway
 import org.springframework.stereotype.Component
 
 @Component

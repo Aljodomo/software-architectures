@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.layered_entity_as_domain.presentation.dto
+package com.aljodomo.software_architectures.layered_entity_as_domain.presentation.dto
 
 data class TaskCreateDto(
     val title: String,

@@ -1,7 +1,7 @@
-package com.aljodomo.architecture_comparison.hexagonal.adapter.persistence
+package com.aljodomo.software_architectures.hexagonal.adapter.persistence
 
-import com.aljodomo.architecture_comparison.hexagonal.core.Task
-import com.aljodomo.architecture_comparison.hexagonal.core.TaskRepoPort
+import com.aljodomo.software_architectures.hexagonal.core.Task
+import com.aljodomo.software_architectures.hexagonal.core.TaskRepoPort
 import org.springframework.stereotype.Component
 
 @Component

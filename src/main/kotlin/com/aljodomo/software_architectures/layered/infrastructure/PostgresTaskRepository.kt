@@ -1,7 +1,7 @@
-package com.aljodomo.architecture_comparison.layered.infrastructure
+package com.aljodomo.software_architectures.layered.infrastructure
 
-import com.aljodomo.architecture_comparison.layered.domain.Task
-import com.aljodomo.architecture_comparison.layered.domain.TaskRepository
+import com.aljodomo.software_architectures.layered.domain.Task
+import com.aljodomo.software_architectures.layered.domain.TaskRepository
 import org.springframework.stereotype.Repository
 
 @Repository

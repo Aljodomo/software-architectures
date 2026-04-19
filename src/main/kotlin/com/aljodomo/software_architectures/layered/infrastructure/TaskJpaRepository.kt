@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.layered.infrastructure
+package com.aljodomo.software_architectures.layered.infrastructure
 
 import org.springframework.data.jpa.repository.JpaRepository
 import java.util.UUID

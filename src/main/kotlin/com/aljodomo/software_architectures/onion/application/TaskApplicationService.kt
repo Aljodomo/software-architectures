@@ -1,8 +1,8 @@
-package com.aljodomo.architecture_comparison.onion.application
+package com.aljodomo.software_architectures.onion.application
 
-import com.aljodomo.architecture_comparison.onion.domain.Task
-import com.aljodomo.architecture_comparison.onion.domain.TaskDomainService
-import com.aljodomo.architecture_comparison.onion.domain.TaskRepository
+import com.aljodomo.software_architectures.onion.domain.Task
+import com.aljodomo.software_architectures.onion.domain.TaskDomainService
+import com.aljodomo.software_architectures.onion.domain.TaskRepository
 import org.springframework.stereotype.Service
 
 @Service

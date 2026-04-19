@@ -1,6 +1,6 @@
-package com.aljodomo.architecture_comparison.layered.presentation.dto
+package com.aljodomo.software_architectures.layered.presentation.dto
 
-import com.aljodomo.architecture_comparison.layered.domain.Task
+import com.aljodomo.software_architectures.layered.domain.Task
 import java.util.UUID
 
 data class TaskDto(

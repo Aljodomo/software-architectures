@@ -1,7 +1,7 @@
-package com.aljodomo.architecture_comparison.hexagonal
+package com.aljodomo.software_architectures.hexagonal
 
-import com.aljodomo.architecture_comparison.hexagonal.core.TaskRepoPort
-import com.aljodomo.architecture_comparison.hexagonal.core.TaskService
+import com.aljodomo.software_architectures.hexagonal.core.TaskRepoPort
+import com.aljodomo.software_architectures.hexagonal.core.TaskService
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 

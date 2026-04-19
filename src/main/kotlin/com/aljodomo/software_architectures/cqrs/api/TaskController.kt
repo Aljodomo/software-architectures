@@ -1,10 +1,10 @@
-package com.aljodomo.architecture_comparison.cqrs.api
+package com.aljodomo.software_architectures.cqrs.api
 
-import com.aljodomo.architecture_comparison.cqrs.command.CreateTaskCommand
-import com.aljodomo.architecture_comparison.cqrs.command.CreateTaskCommandHandler
-import com.aljodomo.architecture_comparison.cqrs.query.GetAllTasksQuery
-import com.aljodomo.architecture_comparison.cqrs.query.GetAllTasksQueryHandler
-import com.aljodomo.architecture_comparison.cqrs.query.TaskView
+import com.aljodomo.software_architectures.cqrs.command.CreateTaskCommand
+import com.aljodomo.software_architectures.cqrs.command.CreateTaskCommandHandler
+import com.aljodomo.software_architectures.cqrs.query.GetAllTasksQuery
+import com.aljodomo.software_architectures.cqrs.query.GetAllTasksQueryHandler
+import com.aljodomo.software_architectures.cqrs.query.TaskView
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PostMapping

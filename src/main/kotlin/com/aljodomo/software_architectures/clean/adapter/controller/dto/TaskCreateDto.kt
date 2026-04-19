@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.clean.adapter.controller.dto
+package com.aljodomo.software_architectures.clean.adapter.controller.dto
 
 data class TaskCreateDto(
     val title: String,

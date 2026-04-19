@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.layered.presentation.dto
+package com.aljodomo.software_architectures.layered.presentation.dto
 
 data class TaskCreateDto(
     val title: String,

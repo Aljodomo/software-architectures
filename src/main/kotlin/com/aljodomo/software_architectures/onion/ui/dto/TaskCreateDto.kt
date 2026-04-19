@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.onion.ui.dto
+package com.aljodomo.software_architectures.onion.ui.dto
 
 data class TaskCreateDto(
     val title: String,

@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.layered.domain
+package com.aljodomo.software_architectures.layered.domain
 
 import java.util.UUID
 

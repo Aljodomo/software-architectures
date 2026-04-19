@@ -1,6 +1,6 @@
-package com.aljodomo.architecture_comparison.hexagonal.adapter.rest
+package com.aljodomo.software_architectures.hexagonal.adapter.rest
 
-import com.aljodomo.architecture_comparison.hexagonal.core.Task
+import com.aljodomo.software_architectures.hexagonal.core.Task
 import java.util.UUID
 
 data class TaskDto(

@@ -2,7 +2,7 @@ spring:
   application:
     name: software-architectures
   datasource:
-    url: jdbc:postgresql://localhost:5432/architecture_comparison
+    url: jdbc:postgresql://localhost:5432/software_architectures
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver

@@ -2,7 +2,7 @@ services:
   postgres:
     image: postgres:17
     environment:
-      POSTGRES_DB: architecture_comparison
+      POSTGRES_DB: software_architectures
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
     ports:

@@ -1,6 +1,6 @@
-package com.aljodomo.architecture_comparison.clean.adapter.controller.dto
+package com.aljodomo.software_architectures.clean.adapter.controller.dto
 
-import com.aljodomo.architecture_comparison.clean.entity.Task
+import com.aljodomo.software_architectures.clean.entity.Task
 import java.util.UUID
 
 data class TaskDto(

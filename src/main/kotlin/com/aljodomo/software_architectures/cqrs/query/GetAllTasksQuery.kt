@@ -1,3 +1,3 @@
-package com.aljodomo.architecture_comparison.cqrs.query
+package com.aljodomo.software_architectures.cqrs.query
 
 object GetAllTasksQuery

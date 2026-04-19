@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.onion.domain
+package com.aljodomo.software_architectures.onion.domain
 
 import java.util.UUID
 

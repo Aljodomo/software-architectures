@@ -1,6 +1,6 @@
-package com.aljodomo.architecture_comparison.layered_entity_as_domain.presentation.dto
+package com.aljodomo.software_architectures.layered_entity_as_domain.presentation.dto
 
-import com.aljodomo.architecture_comparison.layered_entity_as_domain.infrastructure.TaskEntity
+import com.aljodomo.software_architectures.layered_entity_as_domain.infrastructure.TaskEntity
 import java.util.UUID
 
 data class TaskDto(

@@ -1,7 +1,7 @@
-package com.aljodomo.architecture_comparison.layered_entity_only.presentation
+package com.aljodomo.software_architectures.layered_entity_only.presentation
 
-import com.aljodomo.architecture_comparison.layered_entity_only.application.TaskService
-import com.aljodomo.architecture_comparison.layered_entity_only.infrastructure.TaskEntity
+import com.aljodomo.software_architectures.layered_entity_only.application.TaskService
+import com.aljodomo.software_architectures.layered_entity_only.infrastructure.TaskEntity
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PostMapping

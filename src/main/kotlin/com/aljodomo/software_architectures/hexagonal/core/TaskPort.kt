@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.hexagonal.core
+package com.aljodomo.software_architectures.hexagonal.core
 
 interface TaskPort {
     fun createTask(title: String, description: String): Task

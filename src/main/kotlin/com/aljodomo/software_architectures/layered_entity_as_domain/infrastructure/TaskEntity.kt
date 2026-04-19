@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.layered_entity_as_domain.infrastructure
+package com.aljodomo.software_architectures.layered_entity_as_domain.infrastructure
 
 import jakarta.persistence.Entity
 import jakarta.persistence.Id

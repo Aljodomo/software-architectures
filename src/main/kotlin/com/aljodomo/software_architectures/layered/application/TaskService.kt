@@ -1,7 +1,7 @@
-package com.aljodomo.architecture_comparison.layered.application
+package com.aljodomo.software_architectures.layered.application
 
-import com.aljodomo.architecture_comparison.layered.domain.Task
-import com.aljodomo.architecture_comparison.layered.domain.TaskRepository
+import com.aljodomo.software_architectures.layered.domain.Task
+import com.aljodomo.software_architectures.layered.domain.TaskRepository
 import org.springframework.stereotype.Service
 import java.util.UUID
 

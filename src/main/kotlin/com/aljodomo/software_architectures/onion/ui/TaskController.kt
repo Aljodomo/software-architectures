@@ -1,8 +1,8 @@
-package com.aljodomo.architecture_comparison.onion.ui
+package com.aljodomo.software_architectures.onion.ui
 
-import com.aljodomo.architecture_comparison.onion.application.TaskApplicationService
-import com.aljodomo.architecture_comparison.onion.ui.dto.TaskCreateDto
-import com.aljodomo.architecture_comparison.onion.ui.dto.TaskDto
+import com.aljodomo.software_architectures.onion.application.TaskApplicationService
+import com.aljodomo.software_architectures.onion.ui.dto.TaskCreateDto
+import com.aljodomo.software_architectures.onion.ui.dto.TaskDto
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PostMapping

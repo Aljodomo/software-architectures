@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison
+package com.aljodomo.software_architectures
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

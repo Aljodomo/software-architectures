@@ -1,4 +1,4 @@
-package com.aljodomo.architecture_comparison.cqrs.infrastructure
+package com.aljodomo.software_architectures.cqrs.infrastructure
 
 import jakarta.persistence.Entity
 import jakarta.persistence.Id

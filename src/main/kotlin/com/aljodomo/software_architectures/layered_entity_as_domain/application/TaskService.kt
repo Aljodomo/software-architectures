@@ -1,7 +1,7 @@
-package com.aljodomo.architecture_comparison.layered_entity_as_domain.application
+package com.aljodomo.software_architectures.layered_entity_as_domain.application
 
-import com.aljodomo.architecture_comparison.layered_entity_as_domain.infrastructure.TaskEntity
-import com.aljodomo.architecture_comparison.layered_entity_as_domain.infrastructure.TaskJpaRepository
+import com.aljodomo.software_architectures.layered_entity_as_domain.infrastructure.TaskEntity
+import com.aljodomo.software_architectures.layered_entity_as_domain.infrastructure.TaskJpaRepository
 import org.springframework.stereotype.Service
 import java.util.UUID
 

@@ -1,6 +1,6 @@
-package com.aljodomo.architecture_comparison.clean.usecase.boundary.`in`
+package com.aljodomo.software_architectures.clean.usecase.boundary.`in`
 
-import com.aljodomo.architecture_comparison.clean.entity.Task
+import com.aljodomo.software_architectures.clean.entity.Task
 
 interface TaskInputBoundary {
     fun createTask(title: String, description: String): Task
